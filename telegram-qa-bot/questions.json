@@ -1,0 +1,42 @@
+[
+    {
+        "question": "SQL vs. PostgreSQL / Supabase?",
+        "answer": "SQL is the language itself. PostgreSQL is an advanced, robust object-relational database management system that executes SQL. Supabase is a backend-as-a-service built on top of PostgreSQL."
+    },
+    {
+        "question": "Left Outer Join vs. Right Outer Join?",
+        "answer": "Left Outer keeps all rows from the left table. Right Outer keeps all rows from the right table."
+    },
+    {
+        "question": "What are Method References?",
+        "answer": "Shorthand syntax :: to refer to an existing method instead of writing a lambda expression (e.g., System.out::println)."
+    },
+    {
+        "question": "What causes OutOfMemoryError: Java heap space?",
+        "answer": "When the application creates too many objects and the Garbage Collector cannot free up enough space, usually due to a memory leak or a massive data processing spike."
+    },
+    {
+        "question": "Checked vs. Unchecked Exceptions?",
+        "answer": "Checked exceptions (like IOException) are checked at compile- time and must be handled. Unchecked exceptions (RuntimeException like NullPointerException) occur at run-time due to logical errors."
+    },
+    {
+        "question": "What is NULLIF?",
+        "answer": "Returns NULL if the two arguments are equal; otherwise, it returns the first argument. Useful for preventing division-by-zero errors."
+    },
+    {
+        "question": "What is Concurrency Control?",
+        "answer": "The mechanism to manage simultaneous execution of transactions in a shared database to ensure data integrity and isolation."
+    },
+    {
+        "question": "What is a Composite Data Type?",
+        "answer": "A data type that allows a single column to hold an entire row of data or a complex JSON object."
+    },
+    {
+        "question": "What is a Semaphore?",
+        "answer": "A concurrency utility that restricts the number of threads accessing a specific resource using a predefined set of permits."
+    },
+    {
+        "question": "What is Query Optimization?",
+        "answer": "The process of choosing the most efficient execution plan for a SQL statement, minimizing CPU, memory, and disk I/O usage."
+    }
+]

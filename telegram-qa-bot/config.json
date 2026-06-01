@@ -1,0 +1,6 @@
+{
+    "num_questions": 10,
+    "interval_hours": 18,
+    "pdf_folder": "pdfs",
+    "auto_extract": true
+}
