@@ -1,8 +1,8 @@
 import json
 import requests
 
-TOKEN = "8876892182:AAHvOW3SLOTH5OAB3-Zb35oxfwUVpJCXWWs"
-CHAT_ID = "1459198255"
+TOKEN = "tokenn hereee"
+CHAT_ID = "chatiddd"
 
 with open("questions.json", "r") as f:
     questions = json.load(f)
