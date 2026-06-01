@@ -331,19 +331,6 @@ Scalable to:
 **Lines of code:** ~400  
 **Number of external libraries:** 3  
 
----
-
-## 📌 LinkedIn Post Hook
-
-*"I built an AI-powered bot that sends 10 random questions to my Telegram app every 18 hours. It reads PDFs, picks random questions, and delivers them automatically. No manual work, just consistent learning.* 🤖📚
-
-*Here's what I learned building it:*
-- *PDF extraction with Python*
-- *Telegram Bot API integration*
-- *Smart task scheduling*
-- *Regex pattern matching for parsing*
-
-*The bot has delivered 40+ questions in just 4 days. Different questions every time = no boredom.* ✅"*
 
 ---
 
